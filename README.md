@@ -96,7 +96,7 @@ Persona B deberá hacer `git push` de nuevo para que sus cambios se suban al rep
 
 5. **Persona A** hará `git pull` en la consola de Git y podrá ver los cambios realizados por Persona B sin problemas.
 
-> Para no tener este problema, se recomienda realizar `git pull` antes de las instrucciones del paso 2, pero después de modificar el código, así te aseguras de arreglar cualquier error que pueda producirse entre el código remoto y tus cambios locales antes de crear el commit.
+> Para no tener este problema, se recomienda realizar `git pull` antes de comenzar a trabajar y modifcar el código, así te aseguras de arreglar cualquier error que pueda producirse entre el código remoto y tus cambios locales antes de crear el commit.
 
 ### Parte 4: Editar mismo archivo
 
